@@ -40,15 +40,18 @@
     text-align: center;
 }
 .banner-row .use-ajax {
-    color: #fff;
-    background-color: #ffa200 !important;
-    border: 2px solid #ffa200 !important;
-    box-shadow: 0px 0px 6px #ca5e31 !important;
-    border-radius: 10px !important;
-    font-size: 16px;
+    background: -webkit-linear-gradient(179deg,#f94baf 0,#fc885b 51%,#f94baf);
+    background-size: 200% auto;
+    transition: all .4s ease-in-out;
+    padding: 17px calc(12px * 3.75);
+    font-size: 18px;
     font-weight: bold;
-    text-transform: uppercase;
-    padding: 1% 2%;
+    color: #ffffff;
+    border-radius: 13px;
+    line-height: 1.5;
+    border: none;
+    margin-top: 18px;
+    text-decoration: none;
 }
 .drop-icon i.fas.fa-angle-down {
     font-size: 50px;
