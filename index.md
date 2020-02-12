@@ -53,6 +53,9 @@
     margin-top: 18px;
     text-decoration: none;
 }
+.banner-row .use-ajax:hover { 
+    background-position: 100%;
+}
 .drop-icon i.fas.fa-angle-down {
     font-size: 50px;
     margin-top: 5%;
