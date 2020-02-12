@@ -1,4 +1,6 @@
-<h2>ENFUSIONIZE</h2>
+<!doctype html>
+<html>
+  <head>
 <script src="https://kit.fontawesome.com/6e86cd867d.js" crossorigin="anonymous"></script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157367028-1"></script>
@@ -59,6 +61,8 @@
 }
 }
 </style>
+  </head>
+<body>
 <div class="container banner">
 <div class="row banner-row">
 <h3>We empower purpose-driven online marketers to streamline, automate and scale.</h3>
@@ -83,4 +87,6 @@
 <div class="fourth-row"><img class="mapp-img" src="//enfusionize.com/wp-content/uploads/2019/06/MAPP-Hires.png" /></div>
 </div>
 </div>
+</body>
+</html>
 
