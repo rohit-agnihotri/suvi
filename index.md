@@ -1,4 +1,5 @@
 <h2>ENFUSIONIZE</h2>
+<script src="https://kit.fontawesome.com/6e86cd867d.js" crossorigin="anonymous"></script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157367028-1"></script>
 <script>
