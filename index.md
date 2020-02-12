@@ -78,7 +78,7 @@
 <li class="custom_menu_icon menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-11043 default_dropdown  drop_to_right  submenu_default_width columns"><a href="#" class="item_link  with_icon">
 <div class="processed_image">
 	<img src="https://images2.enfusionize.com/wp-content/uploads/2014/02/hd-icon1.png" alt="Enfusionize" title="Enfusionize">
-	</div><!-- class="processed_image" --><span class="link_text">HOME</span></a></li>
+	</div><span class="link_text">HOME</span></a></li>
 <li class="custom_link_about menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12890 default_dropdown  drop_to_right  submenu_default_width columns"><a class="item_link  with_icon"><span><span class="link_text">ABOUT US</span></span></a>
 </li>
 <li class="custom_link_about menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-14261 default_dropdown  drop_to_right  submenu_default_width columns"><a class="item_link  with_icon"><span><span class="link_text">SOLUTIONS</span></span></a></li>
@@ -86,15 +86,15 @@
 <li class="custom_menu_icon menu-item menu-item-type-post_type menu-item-object-page menu-item-11048 default_dropdown  drop_to_right  submenu_default_width columns"><a href="#" class="item_link  with_icon">
 	<div class="processed_image">
 		<img src="https://images2.enfusionize.com/wp-content/uploads/2014/02/hd-icon6.png" alt="Enfusionize" title="Enfusionize">
-	</div><!-- class="processed_image" --><span class="link_text">FAQ</span></a></li>
+	</div><span class="link_text">FAQ</span></a></li>
 <li class="custom_menu_icon menu-item menu-item-type-post_type menu-item-object-page menu-item-11049 default_dropdown  drop_to_right  submenu_default_width columns"><a href="#" class="item_link  with_icon">
 	<div class="processed_image">
 		<img src="https://images1.enfusionize.com/wp-content/uploads/2014/09/hd-icon7.png" alt="Enfusionize" title="Enfusionize">
-	</div><!-- class="processed_image" --><span class="link_text">BLOG</span></a></li>
+	</div><span class="link_text">BLOG</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11356 default_dropdown  drop_to_right  submenu_default_width columns"><a href="#" class="item_link  with_icon">
 	<div class="processed_image">
 		<img src="https://images2.enfusionize.com/wp-content/uploads/2018/10/contact_us.png" alt="Enfusionize" title="Enfusionize">
-	</div><!-- class="processed_image" --><span class="link_text">CONTACT US</span></a></li>
+	</div><span class="link_text">CONTACT US</span></a></li>
 
 	</ul><!-- /class="mega_main_menu_ul" -->
 		</div><!-- /class="menu_inner" -->
