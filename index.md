@@ -63,7 +63,7 @@
 
 <p>Join the hundreds of other savvy business owners, coaches, cultural creatives, visionary artists, authors, speakers, and thought leaders who are too inundated to strategically architect and implement their own marketing platforms or sales funnels.</p>
 
-<div class="button"><a class="use-ajax" data-dialog-type="modal" href="/drupal-2020/drupal/modal-example/modal">Start Your Business</a></div>
+<div class="button"><a class="use-ajax" data-dialog-type="modal" href="#">Start Your Business</a></div>
 </div>
 <!----banner-row-close-----></div>
 
