@@ -9,9 +9,6 @@
   gtag('config', 'UA-157367028-1');
 </script>
 <style type="text/css">
-.inner {
-    width: 85% !important;
-}
 .banner{    
     background-repeat: no-repeat;
     background-image: url(//enfusionize.com/wp-content/uploads/2019/07/IMG-BANNER.jpg);
