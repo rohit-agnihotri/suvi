@@ -98,7 +98,9 @@
 
 	</ul><!-- /class="mega_main_menu_ul" -->
 		</div><!-- /class="menu_inner" -->
-	</div><!-- /class="menu_holder" --></div>
+	</div><!-- /class="menu_holder" -->
+	<!---------CLosing all divs---------->
+	</div>
 	</div>
 </div>
 </nav>  
