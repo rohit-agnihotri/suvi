@@ -112,7 +112,7 @@
 <div class="button"><a class="use-ajax" data-dialog-type="modal" href="#">Start Your Business</a></div>
 <div class="drop-icon"><a href="#drop-second"><i class="fas fa-angle-down"></i></a></div>
 </div>
-<!----banner-row-close-----></div>
+</div>
 
 <div class="container second">
 <div id ="drop-second" class="row second-row">
