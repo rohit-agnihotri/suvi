@@ -67,6 +67,7 @@
 <div class="button"><a class="use-ajax" data-dialog-type="modal" href="#">Start Your Business</a></div>
 </div>
 <!----banner-row-close-----></div>
+<i class="fas fa-angle-down"></i>
 
 <div class="container second">
 <div class="row second-row">
