@@ -39,7 +39,7 @@
 .banner-row {
     text-align: center;
 }
-.banner-row a {
+.banner-row .use-ajax {
     color: #fff;
     background-color: #ffa200 !important;
     border: 2px solid #ffa200 !important;
