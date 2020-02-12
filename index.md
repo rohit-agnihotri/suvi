@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
   <head>
 <script src="https://kit.fontawesome.com/6e86cd867d.js" crossorigin="anonymous"></script>
@@ -17,7 +16,7 @@
     background-image: url(//enfusionize.com/wp-content/uploads/2019/07/IMG-BANNER.jpg);
     background-size: cover;
     background-position: center top;
-    padding: 20% 0 10%;
+    padding: 20% 0 2%;
 }
 .clearfix.main-content__section {
     padding: 0px;
@@ -50,6 +49,10 @@
     font-weight: bold;
     text-transform: uppercase;
     padding: 1% 2%;
+}
+.drop-icon i.fas.fa-angle-down {
+    font-size: 50px;
+    margin-top: 5%;
 }
 .center{
     text-align: center;
