@@ -70,9 +70,9 @@
 <p>Join the hundreds of other savvy business owners, coaches, cultural creatives, visionary artists, authors, speakers, and thought leaders who are too inundated to strategically architect and implement their own marketing platforms or sales funnels.</p>
 
 <div class="button"><a class="use-ajax" data-dialog-type="modal" href="#">Start Your Business</a></div>
+<div class="drop-icon"><i class="fas fa-angle-down"></i></div>
 </div>
 <!----banner-row-close-----></div>
-<i class="fas fa-angle-down"></i>
 
 <div class="container second">
 <div class="row second-row">
