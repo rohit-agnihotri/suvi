@@ -67,6 +67,7 @@
   </head>
 <body>
 <!---MENU NAVIGATION----->
+<!---------
 <nav class="navbar-collapse hidden-xs" id="sticky_navigation_wrapper">
    <div id="sticky_navigation" class="hidden-phones hidden-xs">
       <div class="container" id="conteiner-nav" style="padding-right:0px;">
@@ -101,7 +102,7 @@
 	</div>
 </div>
 </nav>  
-
+--------->
 <!----------BANNER START--------->
 <div class="container banner">
 <div class="row banner-row">
