@@ -73,12 +73,12 @@
 <p>Join the hundreds of other savvy business owners, coaches, cultural creatives, visionary artists, authors, speakers, and thought leaders who are too inundated to strategically architect and implement their own marketing platforms or sales funnels.</p>
 
 <div class="button"><a class="use-ajax" data-dialog-type="modal" href="#">Start Your Business</a></div>
-<div class="drop-icon"><i class="fas fa-angle-down"></i></div>
+<div class="drop-icon"><a href="#drop-second"><i class="fas fa-angle-down"></i></a></div>
 </div>
 <!----banner-row-close-----></div>
 
 <div class="container second">
-<div class="row second-row">
+<div id ="drop-second" class="row second-row">
 <div class="center"><img alt="image-1" src="//enfusionize.com/wp-content/uploads/2019/07/text-img3.png" />
 <p class="opensans_light" style="font-size: 22px; padding-top: 2%;">We stay on top of the technology curve as we develop strategies, products, and solutions for our beloved clients. Check out a sampling of our intellectual capital and innovations below.</p>
 </div>
