@@ -127,7 +127,7 @@ function googleTranslateElementInit() {
 <img class="ft-sep" src="https://www.enfusionize.com/wp-content/uploads/2019/07/new-enfusionize/shape_separator.png">
 <span class="hidden-xs foot-links"><a href="#">Home </a> | <a href="#"> About Us</a>  | <a href="#"> Solutions </a> | <a href="#"> Portfolio </a> |  <a href="#"> FAQ </a> |<a href="#">  Blog </a> | <a href="#"> Contact us</a>   </span>
 
-<p>Copyright © 2020 <a href="#" class="azul">enfusionize™</a> | All rights reserved | <a href="#">Privacy Policy</a> | <a href="#">Refund Policy</a></p>
+<p>Copyright © 2020 <a href="#" class="azul">enfusionize™</a>
 </div>
 
 <div class="col-md-3 col-sm-3 col-xs-12 ftr-social">
@@ -140,15 +140,6 @@ function googleTranslateElementInit() {
     </li>
     <li class="nav-item">
       <a class="nav-link" href="#"><img src="https://www.enfusionize.com/wp-content/uploads/2019/07/new-enfusionize/g-plus.png"></a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="#"><img src="https://www.enfusionize.com/wp-content/uploads/2019/07/new-enfusionize/linkedin.png"></a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="#"><img src="https://www.enfusionize.com/wp-content/uploads/2019/07/new-enfusionize/youtube.png"></a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="#"><img src="https://www.enfusionize.com/wp-content/uploads/2019/07/new-enfusionize/pinterest.png"></a>
     </li>
   </ul>
 </div>
