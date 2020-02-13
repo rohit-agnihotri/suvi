@@ -54,10 +54,11 @@
  <option value="hi">हिन्दी </option> <option value="el">Ελληνική</option>
  <option value="ro">română</option>
 </select>
-<div id="translation"></div>
+<div id="translation">
 <div id="article">
 <h3>Add Google AJAX Language API in your Website</h3>
 <p>If you are ready to take the plunge, here’s what you need to do to get this working on your site.</p>
+</div>
 </div>
 </body>
 </html>
