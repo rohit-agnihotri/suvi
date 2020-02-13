@@ -71,14 +71,6 @@
     width: 100%;
 }
 }
-footer {
-    background: #9dafe7;
-    padding: 20px 0 11px;
-    width: 100%;
-}
-.footer-container {
-    max-width: 1085px !important;
-}
 </style>
   </head>
 <body>
@@ -116,36 +108,6 @@ function googleTranslateElementInit() {
 <div class="fourth-row"><img class="mapp-img" src="//enfusionize.com/wp-content/uploads/2019/06/MAPP-Hires.png" /></div>
 </div>
 </div>
-<footer>
-<div class="container footer-container">
-    <div class="row">
-       <div class="col-md-3 col-sm-3 col-xs-12">
-            <a href="#"><img src="https://www.enfusionize.com/wp-content/uploads/2019/07/new-enfusionize/logo.png" class="logo-head" alt="logo"></a>
-       </div>
-
-<div class="col-md-6 col-sm-6 col-xs-12">
-<img class="ft-sep" src="https://www.enfusionize.com/wp-content/uploads/2019/07/new-enfusionize/shape_separator.png">
-<span class="hidden-xs foot-links"><a href="#">Home </a> | <a href="#"> About Us</a>  | <a href="#"> Solutions </a> | <a href="#"> Portfolio </a> |  <a href="#"> FAQ </a> |<a href="#">  Blog </a> | <a href="#"> Contact us</a>   </span>
-
-<p>Copyright © 2020 <a href="#" class="azul">enfusionize™</a>
-</div>
-
-<div class="col-md-3 col-sm-3 col-xs-12 ftr-social">
-  <ul class="nav justify-content-end">
-    <li class="nav-item">
-      <a class="nav-link" href="#"><img src="https://www.enfusionize.com/wp-content/uploads/2019/07/new-enfusionize/fb.png"></a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="#"><img src="https://www.enfusionize.com/wp-content/uploads/2019/07/new-enfusionize/twitter.png"></a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="#"><img src="https://www.enfusionize.com/wp-content/uploads/2019/07/new-enfusionize/g-plus.png"></a>
-    </li>
-  </ul>
-</div>
-</div>
-</div>
-</footer>
 </body>
 </html>
 
