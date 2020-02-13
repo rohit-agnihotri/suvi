@@ -10,8 +10,6 @@
 
   gtag('config', 'UA-157367028-1');
 </script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
 <style type="text/css">
 .banner{    
     background-repeat: no-repeat;
