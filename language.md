@@ -60,4 +60,4 @@
 <p>If you are ready to take the plunge, here’s what you need to do to get this working on your site.</p>
 </div>
 </body>
-</html
+</html>
