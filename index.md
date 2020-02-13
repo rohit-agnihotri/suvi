@@ -74,7 +74,6 @@
 footer {
     background: #9dafe7;
     padding: 20px 0 11px;
-    float: left;
     width: 100%;
 }
 .footer-container {
