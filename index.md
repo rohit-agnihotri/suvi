@@ -32,7 +32,7 @@ section#downloads {
 }
 .bg-light {
     width: 100%;
-    background: linear-gradient(to right, #4818b5 13%, #c628b2 73%) !important;
+    background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB);
     background-size: 400% 400%;
     -webkit-animation: Gradient 15s ease infinite !important;
     -moz-animation: Gradient 15s ease infinite !important;
