@@ -47,6 +47,10 @@ section#downloads {
     font-weight: bold;
     text-shadow: 2px 2px 2px rgba(0,0,0,0.3) !important;
 }
+.p-tag{
+    font-size: 22px;
+    padding-top: 2%;
+  }
 .banner-row {
     text-align: center;
 }
@@ -75,6 +79,21 @@ section#downloads {
     text-align: center;
     padding: 2% 20%;
 }
+
+@media only screen and (max-width: 768px) {
+.banner-row h3 {
+    font-size: 18px !important;
+	}
+.banner-row p {
+    font-size: 14px !important;
+    padding: 2% 16% !important;
+	}
+.p-tag{
+    font-size: 16px !important;
+    padding-top: 0% !important;
+  }
+}
+
 @media (min-width: 1200px){
 .container {
     width: 100%;
@@ -107,7 +126,7 @@ function googleTranslateElementInit() {
 <div class="container second">
 <div id ="drop-second" class="row second-row">
 <div class="center"><img alt="image-1" src="//enfusionize.com/wp-content/uploads/2019/07/text-img3.png" />
-<p class="opensans_light" style="font-size: 22px; padding-top: 2%;">We stay on top of the technology curve as we develop strategies, products, and solutions for our beloved clients. Check out a sampling of our intellectual capital and innovations below.</p>
+<p class="opensans_light p-tag">We stay on top of the technology curve as we develop strategies, products, and solutions for our beloved clients. Check out a sampling of our intellectual capital and innovations below.</p>
 </div>
 </div>
 
