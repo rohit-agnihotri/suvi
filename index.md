@@ -11,6 +11,10 @@
   gtag('config', 'UA-157367028-1');
 </script>
 <style type="text/css">
+header {
+    padding: 0px 5% !important;
+    margin: 0px !important;
+}
 .container {
     width: 100%;
     max-width: 100% !important;
