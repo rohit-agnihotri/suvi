@@ -79,6 +79,13 @@ section#downloads {
     text-align: center;
     padding: 2% 20%;
 }
+footer {
+    background: #9dafe7;
+    padding: 20px 0 11px;
+    float: none;
+    width: 100%;
+    text-align: center;
+}
 
 @media only screen and (max-width: 768px) {
 .banner-row h3 {
@@ -136,6 +143,18 @@ function googleTranslateElementInit() {
 <div class="fourth-row"><img class="mapp-img" src="//enfusionize.com/wp-content/uploads/2019/06/MAPP-Hires.png" /></div>
 </div>
 </div>
+<footer>
+<div class="container footer-container">
+    <div class="row">
+       <div class="col-md-6 col-sm-6 col-xs-12">
+            <a href="#"><img src="https://www.enfusionize.com/wp-content/uploads/2019/07/new-enfusionize/logo.png" class="logo-head" alt="logo"></a>
+       </div>
+<div class="col-md-6 col-sm-6 col-xs-12">
+<p>Copyright © 2020 <a href="#" class="azul">rohit.agnihotri™</a> | All rights reserved |</p>
+      </div>
+    </div>
+</div>
+</footer>
 </body>
 </html>
 
