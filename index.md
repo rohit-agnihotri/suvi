@@ -15,6 +15,9 @@ header {
     padding: 0px 5% !important;
     margin: 0px !important;
 }
+section#downloads {
+    display: none;
+}
 .container {
     width: 100%;
     max-width: 100% !important;
