@@ -26,7 +26,7 @@ section#downloads {
     background-image: url(//enfusionize.com/wp-content/uploads/2019/07/IMG-BANNER.jpg);
     background-size: cover;
     background-position: center top;
-    padding: 20% 0 2%;
+    padding: 5% 0 2%;
 }
 .clearfix.main-content__section {
     padding: 0px;
@@ -37,6 +37,7 @@ section#downloads {
     font-weight: bold !important;
     color: #ffffff;
     text-shadow: 4px 4px 4px rgba(0,0,0,1.3) !important;
+    padding: 0px 5%;
 }
 .banner-row p {
     font-size: 22px !important;
