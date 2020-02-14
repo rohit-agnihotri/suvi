@@ -17,6 +17,9 @@
   gtag('config', 'UA-157367028-1');
 </script>
 <style type="text/css">
+ul li {
+    list-style-image: none !important;
+}
 header {
     margin: 0px !important;
 }
@@ -26,6 +29,45 @@ section#downloads {
 .container {
     width: 100%;
     max-width: 100% !important;
+}
+.bg-light {
+    width: 100%;
+    background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB) !important;
+    background-size: 400% 400%;
+    -webkit-animation: Gradient 15s ease infinite !important;
+    -moz-animation: Gradient 15s ease infinite !important;
+    animation: Gradient 15s ease infinite !important;
+}	
+@-webkit-keyframes Gradient {
+0% {
+background-position: 0% 50%
+}
+50% {
+background-position: 100% 50%
+}
+100% {
+background-position: 0% 50%
+}
+}
+
+@-moz-keyframes Gradient {
+0% {
+background-position: 0% 50%
+}
+50% {
+background-position: 100% 50%
+}
+100% {
+background-position: 0% 50%
+}
+}
+
+@keyframes Gradient {
+0% {background-position: 0% 50%;}
+50% {background-position: 100% 50%;}
+100% {
+background-position: 0% 50%
+}
 }
 .banner{    
     background-repeat: no-repeat;
