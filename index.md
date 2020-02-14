@@ -229,15 +229,13 @@ function googleTranslateElementInit() {
 </div>
 <div class="upper-footer">
 	<div class="row">
-		<div class="column">
-			<div class="module">
-				<div class="text_inner"><h2>Revolutionize your business<br> with enfusionize™</h2>
+	  <div class="module">
+	    <div class="text_inner"><h2>Revolutionize your business<br> with enfusionize™</h2>
 <p>See first hand how our team directly supports you to streamline,automate and scale you unique offering and position in the ever-changing online business landscape</p></div>
 			</div> <!-- text -->
 			<div class="et_pb_module et_pb_image et_pb_image_25 pulsefoot">
 				<a href="/about-us/careers/"><span class="et_pb_image_wrap "><img src="https://enfusionize.com/wp-content/themes/enfusionize/img/join-us-click-here.png" alt="" title=""></span></a>
-			</div>
-		</div> <!-- column -->	
+			</div>	
 	</div> <!-- row -->
 </div>
 <footer>
