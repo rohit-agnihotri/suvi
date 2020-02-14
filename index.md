@@ -156,6 +156,7 @@ a.azul {
     color: #ffffff;
     font-size: 30px !important;
     font-weight: 600;
+    width: 100%;
 }
 .upper-footer p {
     color: #ffffff;
