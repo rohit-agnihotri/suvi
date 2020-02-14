@@ -151,6 +151,8 @@ a.azul {
 .upper-footer {
     background-image: url(https://www.enfusionize.com/wp-content/uploads/2019/07/optin-banner.png)!important;
     text-align: center;
+    padding: 5% 0%;
+    background-size: cover;
 }
 .upper-footer h2 {
     color: #ffffff;
@@ -161,7 +163,7 @@ a.azul {
 .upper-footer p {
     color: #ffffff;
     font-size: 20px;
-    padding: 2% 10%;
+    padding: 1% 10%;
 }
 
 @media only screen and (max-width: 768px) {
