@@ -150,6 +150,7 @@ a.azul {
 }
 .upper-footer {
     background-image: url(https://www.enfusionize.com/wp-content/uploads/2019/07/optin-banner.png)!important;
+    text-align: center;
 }
 
 @media only screen and (max-width: 768px) {
