@@ -199,7 +199,7 @@ function googleTranslateElementInit() {
 
 <p>Join the hundreds of other savvy business owners, coaches, cultural creatives, visionary artists, authors, speakers, and thought leaders who are too inundated to strategically architect and implement their own marketing platforms or sales funnels.</p>
 
-<div class="button"><a class="use-ajax" data-dialog-type="modal" href="#">Start Your Business</a></div>
+<button type="button" class="button"><span class="use-ajax">Start Your Business</span></button>
 <div class="drop-icon"><a href="#drop-second"><i class="fas fa-angle-down"></i></a></div>
 </div>
 </div>
