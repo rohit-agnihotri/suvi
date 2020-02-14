@@ -86,6 +86,13 @@ footer {
     width: 100%;
     text-align: center;
 }
+.footer-container p {
+    color: #591740;
+    font-weight: 600;
+}
+a.azul {
+    color: #000000;
+}
 
 @media only screen and (max-width: 768px) {
 .banner-row h3 {
