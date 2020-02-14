@@ -11,6 +11,10 @@
   gtag('config', 'UA-157367028-1');
 </script>
 <style type="text/css">
+.container {
+    width: 100%;
+    max-width: 100% !important;
+}
 .banner{    
     background-repeat: no-repeat;
     background-image: url(//enfusionize.com/wp-content/uploads/2019/07/IMG-BANNER.jpg);
