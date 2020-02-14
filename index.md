@@ -12,7 +12,6 @@
 </script>
 <style type="text/css">
 header {
-    padding: 0px 5% !important;
     margin: 0px !important;
 }
 section#downloads {
