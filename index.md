@@ -98,7 +98,14 @@ background-position: 0% 50%
 .p-tag{
     font-size: 22px;
     padding-top: 2%;
+    color: #ffffff;
   }
+.button {
+    width: 100%;
+}
+.drop-icon {
+    width: 100%;
+}
 .banner-row {
     text-align: center;
 }
